@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+			    Hospital  Contact List
+		***********************************************
+		S.N. 	Name			Contact Number
+		1. 	Bir hospital		4223807
+		2. 	Teaching hospital	4412505
+		3. 	Patan hospital		5522266
+		4. 	Bhaktapur hosiptal	6610676
+		5. 	Kanit children		4414798
+  

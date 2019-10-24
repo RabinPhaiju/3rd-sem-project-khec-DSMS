@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+       		      	     Ambulance  Contact List
+	**************************************************************
+	S.N.	Name					Contact Number
+	1. 	Bhaktapur Redcross society		016612266
+	2. 	Bhaktapur public health center  	016610317
+	3. 	Shiddi memorial hospital		016619382
+	4. 	Lalitpur Redcross society		5545666
+	5. 	Redcross Ambulance service		4228094

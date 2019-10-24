@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+    				Police  contact list
+		******************************************************	
+		S.N.	Name				Contact number
+		1. 	Police control			100
+		2. 	Police emeregency		4228435
+		3. 	Metropoliant kathmandu		4261945
+		4. 	Lalitpur police control		5521207
+		5. 	Bhaktapur police control	661482
