@@ -1,1 +1,1 @@
-# Database Management System in C Programming Language.
+# Departmental Store Management System in C Programming Language.
